@@ -1,0 +1,9 @@
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\bin\Debug\Windows Foldem.exe.config
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\bin\Debug\Windows Foldem.exe
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\bin\Debug\Windows Foldem.pdb
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\obj\Debug\Windows Foldem.csprojAssemblyReference.cache
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\obj\Debug\Windows_Foldem.Properties.Resources.resources
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\obj\Debug\Windows Foldem.csproj.GenerateResource.cache
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\obj\Debug\Windows Foldem.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\obj\Debug\Windows Foldem.exe
+C:\Users\paperspace\source\repos\windows-foldem\Windows Foldem\obj\Debug\Windows Foldem.pdb

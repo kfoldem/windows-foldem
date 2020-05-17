@@ -1,2 +1,0 @@
-C:\Users\paperspace\source\repos\windows-foldem\obj\Debug\windows-foldem.csprojAssemblyReference.cache
-C:\Users\paperspace\source\repos\windows-foldem\obj\Debug\windows-foldem.csproj.CoreCompileInputs.cache
